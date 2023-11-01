@@ -1,7 +1,6 @@
 
 <?php /* Template Name: About-us */ ?>
-      
-      <!-- header -->
+  
       <?php get_header(); ?>
 
       <!-- main body start -->
